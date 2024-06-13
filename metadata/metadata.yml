@@ -1,0 +1,19 @@
+metadata_version: 1
+name: Fuzzy Logic with Linear Programming for Automated Homomorphic Encryption Parametrization
+description: Fuzzy Logic + Linear Programming for automated Homomorphic Encryption
+  Parametrization
+tags:
+- Homomorphic Encryption
+- Fuzzy Logic
+- Linear Programming
+- Parametrization
+authors:
+- name: José Cabrero-Holgueras
+  affiliations:
+  - name: CERN
+- name: Sergio Pastrana
+  affiliations:
+  - name: Carlos III University of Madrid
+corresponding_contributor:
+  name: José Cabrero-Holgueras
+  email: jose.cabrero@alumnos.uc3m.es
